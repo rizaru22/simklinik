@@ -1,0 +1,10 @@
+.borderless td, .borderless th,.borderless tr {
+border: none;
+padding: 5px;
+border-collapse: separate; 
+border-spacing: 5px;
+}
+
+.spacer5 {
+    height: 30px;
+  }

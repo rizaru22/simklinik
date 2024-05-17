@@ -1,0 +1,4 @@
+.login-page, .register-page {
+    background: url("../images/dokter.jpg") no-repeat center center fixed;
+    background-size: cover;
+    }
